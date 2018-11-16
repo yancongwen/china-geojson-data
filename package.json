@@ -1,0 +1,16 @@
+{
+  "name": "china-geojson-data",
+  "version": "1.0.0",
+  "description": "Vector map data of China, geojson format. (Geojson格式的中国省市县三级行政区划矢量地图数据)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "china",
+    "map",
+    "geojson"
+  ],
+  "author": "javonyan",
+  "license": "ISC"
+}
