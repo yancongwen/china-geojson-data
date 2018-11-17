@@ -12,5 +12,5 @@ npm install china-geojson-data --save
 ## Usage
 
 ```js
-var ChinaGeojson = require('china-geojson-data');
+let ChinaGeojson = require('china-geojson-data')
 ```
